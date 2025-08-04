@@ -1,0 +1,22 @@
+# Michael Shawn Lockwood – Full Résumé
+
+This repository contains my full professional résumé, including expanded project history, technical scope, and certifications.
+
+You can download the résumé below in Microsoft Word format:
+
+📄 [MichaelLockwood_FullResume.pdf](MichaelLockwood_FullResume.pdf)
+
+---
+
+### Summary
+
+I’m a Microsoft Certified Database Administrator (MCDBA) with over 20 years of experience in SQL Server, performance tuning, automation, and SSIS. For the past 15 years, I’ve served as either the only DBA or senior DBA, building scalable, high-performance data systems.
+
+After several years overseas, I’ll be reentering the U.S. job market in August 2025 and am seeking full-time opportunities where I can contribute immediately and meaningfully.
+
+---
+
+### Contact
+
+- 📧 michaelshawnlockwood@gmail.com  
+- 🌐 [linkedin.com/in/mslockwood](https://linkedin.com/in/mslockwood)
