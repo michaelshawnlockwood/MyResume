@@ -2,9 +2,8 @@
 
 This repository contains my full professional résumé, including expanded project history, technical scope, and certifications.
 
-You can download the résumé below in PDF format:
+📄 [Download Full Resume (PDF)](https://github.com/michaelshawnlockwood/MyResume/raw/main/MichaelLockwood_FullResume.pdf)
 
-📄 [MichaelLockwood_FullResume.pdf](MichaelLockwood_FullResume.pdf)
 
 ---
 
