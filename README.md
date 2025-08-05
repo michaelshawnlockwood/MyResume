@@ -1,8 +1,10 @@
 # Michael Shawn Lockwood – Full Résumé
 
-This repository contains my full professional résumé, including expanded project history, technical scope, and certifications.
+This repository contains my full professional résumé, condensed résumé, including expanded project history, technical scope, and certifications.
 
 📄 [Download Full Resume (PDF)](https://github.com/michaelshawnlockwood/MyResume/raw/main/MichaelLockwood_FullResume.pdf)
+
+📄 [Download Condensed Resume (PDF)](https://github.com/michaelshawnlockwood/MyResume/raw/main/MichaelLockwood_CondensedResume.pdf)
 
 
 ---
