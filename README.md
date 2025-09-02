@@ -6,7 +6,7 @@ This repository contains my full professional résumé, condensed résumé, incl
 
 📄 [Download Condensed Resume (PDF)](https://github.com/michaelshawnlockwood/MyResume/raw/main/MichaelLockwood_CondensedResume.pdf)
 
-➡️ For my complete professional profile (beyond what fits in a résumé), visit my [GitHub Pages site](https://michaelshawnlockwood.github.io/about/).
+> 🚀 Explore my full professional profile on my [About Page](https://michaelshawnlockwood.github.io/about/) — far more than a résumé can capture.
 
 ---
 
