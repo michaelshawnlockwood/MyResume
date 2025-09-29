@@ -12,9 +12,7 @@ This repository contains my full professional résumé, condensed résumé, incl
 
 ### Summary
 
-I’m a Microsoft Certified Database Administrator (MCDBA) with over 20 years of experience in SQL Server, performance tuning, automation, and SSIS. For the past 15 years, I’ve served as either the only DBA or senior DBA, building scalable, high-performance data systems.
-
-After several years overseas, I’ll be reentering the U.S. job market in August 2025 and am seeking full-time opportunities where I can contribute immediately and meaningfully.
+Database architect with 20+ years as a T-SQL practitioner on SQL Server with experience as a DBA, database architect and developer, including 15 years of SSIS development—consistently focusing on performance, scalability, automation, and high-availability solutions. For the past 15 years, I've served as a Director, Senior DBA and Database Developer. I hold a Bachelor’s degree in Business Administration from DeVry University, along with an MCDBA certification since 2006.
 
 ---
 
