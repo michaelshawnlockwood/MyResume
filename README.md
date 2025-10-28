@@ -1,4 +1,4 @@
-# Michael Shawn Lockwood – Full Résumé
+# Michael Shawn Lockwood – Data Engineer - Résumé
 
 This repository contains my full professional résumé, condensed résumé, including expanded project history, technical scope, and certifications.
 
@@ -10,9 +10,13 @@ This repository contains my full professional résumé, condensed résumé, incl
 
 ---
 
-### Summary
+# PROFESSIONAL RÉPERTOIRE
 
-__Database architect__ with __20+ years as a T-SQL practitioner on SQL Server__ with experience as a __DBA, database architect and developer__, including __15 years of SSIS__ development—consistently focusing on performance, scalability, automation, and high-availability solutions. For the past 15 years, I've served as a __Director, Senior DBA and Database Developer__. I hold a __Bachelor’s degree in Business Administration from DeVry University__, along with an __MCDBA certification since 2006__.
+My foundation in SQL Server and T-SQL development spans two decades. I specialize in performance, scalability, and automation engineering across the full data lifecycle. I design and build complete data pipelines—from raw sources such as Parquet, CSV, and PSV—through database design, development, and optimization now in Databricks, SQL Server, and PostgreSQL, all the way to analytics and visualization in Power BI and D3.js. My work spans on-prem. and cloud-aligned environments, including Azure and Databricks, where I also experiment locally with Azurite and MinIO to emulate real-world cloud architectures for Delta Lake and object-storage integration. Though I can build APIs and UX layers, my strongest impact is in the data tier, where design and performance converge.
+
+I’m a highly motivated and naturally curious professional who takes pride in understanding how every layer of data architecture fits together. Whether examining execution plans, tightening indexes, or refining data flows, I approach every challenge with a performance-first, automation-second mindset. I value precision, reliability, and transparency—traits that have defined my success across healthcare, finance, and hospitality systems for more than two decades.
+
+I began with Microsoft Access while in college nearly 30 years ago. Naturally, I migrated to SQL Server using Microsoft’s Data Transformation Services (DTS) and earned my MCDBA certification in 2006. SQL Server, T-SQL, and SSIS form the foundation of my career. I also hold a Bachelor’s degree in Business Administration from DeVry University.
 
 ---
 
