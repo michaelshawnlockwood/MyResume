@@ -10,13 +10,15 @@ This repository contains my full professional résumé, condensed résumé, incl
 
 ---
 
-# PROFESSIONAL RÉPERTOIRE
+# PROFESSIONAL SUMMARY
 
-My foundation in SQL Server and T-SQL development spans two decades. I specialize in performance, scalability, and automation engineering across the full data lifecycle. I design and build complete data pipelines—from raw sources such as Parquet, CSV, and PSV—through database design, development, and optimization now in Databricks, SQL Server, and PostgreSQL, all the way to analytics and visualization in Power BI and D3.js. My work spans on-prem. and cloud-aligned environments, including Azure and Databricks, where I also experiment locally with Azurite and MinIO to emulate real-world cloud architectures for Delta Lake and object-storage integration. Though I can build APIs and UX layers, my strongest impact is in the data tier, where design and performance converge.
+My foundation in SQL Server and T-SQL development spans two decades. I specialize in performance, scalability, and automation engineering across the full data lifecycle. My approach to database performance is rooted in pattern recognition, root cause analysis, continuous baselining, bottleneck identification, early anomaly detection, and workload-aware tuning.
 
-I’m a highly motivated and naturally curious professional who takes pride in understanding how every layer of data architecture fits together. Whether examining execution plans, tightening indexes, or refining data flows, I approach every challenge with a performance-first, automation-second mindset. I value precision, reliability, and transparency—traits that have defined my success across healthcare, finance, and hospitality systems for more than two decades.
+Most recently, I designed and built a full-stack workflow orchestration, bookkeeping, and data administration platform on Debian (Bookworm) using React/TypeScript, ASP.NET/C#, PostgreSQL, Vault, MinIO, and TLS-secured internal services. I designed per-tenant database isolation by securing connection strings as Vault-managed secrets, along with server-side rendering, PDF generation, and automated workflow execution based on React Flow and JSON models. Deployment is in progress. Prior to this, I developed a large-scale public data pipeline spanning SQL Server and Databricks, using MinIO and Azurite for S3-equivalent blob storage, Python for data conversion, and Power BI and Databricks dashboards for visualization. Technical implementations, experiments, and progress are documented in my GitHub Pages.
 
-I began with Microsoft Access while in college nearly 30 years ago. Naturally, I migrated to SQL Server using Microsoft’s Data Transformation Services (DTS) and earned my MCDBA certification in 2006. SQL Server, T-SQL, and SSIS form the foundation of my career. I also hold a Bachelor’s degree in Business Administration from DeVry University.
+I’m a highly motivated and naturally curious professional who takes pride in understanding how every layer of data architecture fits together. I approach every challenge with a performance-first, automation-second mindset. I value precision, reliability, and transparency—traits that have defined my success across healthcare, finance, and hospitality systems for more than two decades.
+
+A bit of history: I began database development using Microsoft Access while in college nearly 30 years ago. Naturally, I migrated to SQL Server using Microsoft’s Data Transformation Services (DTS) and earned my MCDBA certification in 2006. SQL Server, T-SQL, and SSIS form the foundation of my career. I also hold a Bachelor’s degree in Business Administration from DeVry University.
 
 ---
 
